@@ -27,7 +27,6 @@ Before launching the app for the first time, you **must edit the `domain`** opti
 
 1. **Edit the Domain**  
    The `domain` option must be set before the first launch. This option is essential for properly routing requests and configuring session cookies.
-
    - Example:
      ```yaml
      domain: yourdomain.com
