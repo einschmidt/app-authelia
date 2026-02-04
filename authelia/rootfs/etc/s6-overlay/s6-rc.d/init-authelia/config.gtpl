@@ -8,8 +8,8 @@
 #
 # server:
 #   address: "tcp://:9091"  # Authelia listens on port 9091 inside the container.
-#                           # When running as a Home Assistant add-on, the external 
-#                           # port can be remapped in the add-on configuration.
+#                           # When running as a Home Assistant app, the external 
+#                           # port can be remapped in the app configuration.
 #
 # storage:
 #   local:
