@@ -6,7 +6,7 @@ FROM $BUILD_FROM
 SHELL ["/bin/bash", "-c"]
 
 # https://github.com/authelia/authelia/releases
-ENV AUTHELIA_VERSION="v4.39.20"
+ENV AUTHELIA_VERSION="v4.39.22"
 
 # Install Authelia
 ARG BUILD_ARCH=amd64
